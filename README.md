@@ -1,0 +1,2 @@
+# cors-ajax
+cors ajax
